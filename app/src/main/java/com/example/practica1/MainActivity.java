@@ -4,6 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * @author Wendy Hernández Méndez -
+ * <a href="mailto:wendy.hm005@ciencias.unam.mx">wendy.hm005@ciencias.unam.mx</a>
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
